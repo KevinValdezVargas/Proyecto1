@@ -16,3 +16,7 @@ You can initialize this repository with code from a Subversion, Mercurial, or TF
 
 
 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
+
+git add --all
+git commit -m "first commit"
+git push -u origin main
